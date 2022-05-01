@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @10ng1000
 - 👀 My favorite band is ProjectMili
-- 🌱 I’m currently learning Ubuntu and MATH
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SE
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
